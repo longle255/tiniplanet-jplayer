@@ -1,0 +1,33 @@
+{
+  "name": "tiniplanet-jplayer",
+  "version": "0.0.3",
+  "title": "tiNiPlanet jplayer",
+  "main": "jquery.jplayer/jquery.jplayer.js",
+  "homepage": "https://github.com/longle255/tiniplanet-jplayer",
+  "description": "The jQuery HTML5 Audio / Video Library",
+  "author": {
+    "name": "longle255",
+    "email": "hoanglong25588@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/longle255/tiniplanet-jplayer.git"
+  },
+  "keywords": [
+    "spriter",
+    "tiniplanet",
+    "javascript",
+    "audio",
+    "video"
+  ],
+  "bugs": {
+    "url": "https://github.com/longle255/tiniplanet-jplayer/issues"
+  },
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://github.com/longle255/tiniplanet-jplayer/blob/master/LICENSE"
+  }],
+  "dependencies": {
+    "jquery": ">1.7.0"
+  },
+}

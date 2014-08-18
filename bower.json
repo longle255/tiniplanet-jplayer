@@ -1,0 +1,29 @@
+{
+  "name": "tiniplanet-jplayer",
+  "version": "2.6.5",
+  "homepage": "https://github.com/longle255/tiniplanet-jplayer",
+  "authors": [
+    "Long Hoang Le <hoanglong25588@gmail.com>"
+  ],
+  "description": "The jQuery HTML5 Audio / Video Library for tiNiPlanet",
+  "main": "jquery.jplayer/jquery.jplayer.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "tiniplanet",
+    "jplayer"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">=1.7.2"
+  }
+}
