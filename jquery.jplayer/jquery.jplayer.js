@@ -1723,7 +1723,8 @@
 		_qualifyURL: function(url) {
 			var el = document.createElement('div');
 			el.innerHTML= '<a href="' + this._escapeHtml(url) + '">x</a>';
-			return el.firstChild.href;
+			//L.Le
+			return el.firstChild.getAttribute('href');
 		},
 		_absoluteMediaUrls: function(media) {
 			var self = this;
